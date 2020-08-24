@@ -31,13 +31,13 @@ this.state.messages =
 	    "image": "cat.jpg",
 	    "text": "Hello! Good Morning!",
       	"time": 1545816450000,  //time stamp
-      	"nikename"： "Alice"
+      	"nikename": "Alice"
 	}, {
 	    "type": 1,
 	    "image": "dog.jpg",
 	    "text": "Hello! Good Afternoon!",
         "time": 1545816450000,  //time stamp
-      	"nikename"： "Jack"
+      	"nikename": "Jack"
 	}];
 
 ```
