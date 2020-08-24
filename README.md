@@ -1,6 +1,6 @@
 git地址：
 
-[https://github.com/yaoyuanshou/react-chat-bubble-date]: 	"react-chat-bubble-date"
+[https://github.com/yaoyuanshou/react-chat-bubble-date]: https://github.com/yaoyuanshou/react-chat-bubble-date	"react-chat-bubble-date"
 
 
 
@@ -34,13 +34,13 @@ this.state.messages =
 	    "type" : 0,
 	    "image": "cat.jpg",
 	    "text": "Hello! Good Morning!",
-      	"time": 1545816450000  //time stamp
+      	"time": 1545816450000,  //time stamp
       	"nikename"： "Alice"
 	}, {
 	    "type": 1,
 	    "image": "dog.jpg",
 	    "text": "Hello! Good Afternoon!",
-        "time": 1545816450000  //time stamp
+        "time": 1545816450000,  //time stamp
       	"nikename"： "Jack"
 	}];
 
