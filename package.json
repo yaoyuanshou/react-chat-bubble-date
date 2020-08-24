@@ -1,6 +1,6 @@
 {
   "name": "react-chat-bubble-date",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "A chat bubble component for ReactJS",
   "repository": "sabinbajracharya/react-chat-bubble",
   "main": "lib/ChatBubble.js",

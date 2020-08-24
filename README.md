@@ -64,7 +64,7 @@ nikename:聊天昵称(字符串)
 
 你可以打开package.json文件，在scripts部分有build和transpile两个命令，你需要进行npm run build和npm run transpile将你自己的代码再次进行编译，编译后的输出文件在lib下的ChatBubble.js，当然，你也可以直接在编译后的文件中去进行代码更改，不过不建议这么做，这么做会导致你的项目出现一些莫名其妙的bug
 
-命令执行完毕后，你可以使用npm run publish将更改后的组件进行上传(请注意修改package.json的version版本号)
+命令执行完毕后，你可以使用npm publish将更改后的组件进行上传(请注意修改package.json的version版本号)
 
 
 
