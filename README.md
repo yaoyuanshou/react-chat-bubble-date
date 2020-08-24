@@ -1,6 +1,6 @@
 git地址：
 
-[https://github.com/yaoyuanshou/react-chat-bubble-date.git]: 	"git地址"
+[https://github.com/yaoyuanshou/react-chat-bubble-date]: 	"react-chat-bubble-date"
 
 
 
