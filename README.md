@@ -1,8 +1,4 @@
-git地址：
-
-[https://github.com/yaoyuanshou/react-chat-bubble-date]: https://github.com/yaoyuanshou/react-chat-bubble-date	"react-chat-bubble-date"
-
-
+git地址：[react-chat-bubble-date]( https://github.com/yaoyuanshou/react-chat-bubble-date )
 
 ## 安装
 
